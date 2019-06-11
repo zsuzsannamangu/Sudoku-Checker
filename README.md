@@ -34,6 +34,7 @@ _{This application checks if a completed Sudoku puzzle is “legal.” In other 
   * _Babel_ - to fit all browsers, we compile code from ES6 to older versions with Babel
 
 ## Specs
+
   * Each row contains all numbers from 1 to 9 with no repeats.
   * Each column contains all numbers from 1 to 9 with no repeats.
   * Each of the nine 3 x 3 grids contain all numbers from 1 to 9 with no repeats.
