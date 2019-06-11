@@ -1,12 +1,12 @@
 # _Sudoku Checker_
 
-#### _Sudoku is a game where players must fill in a 9 x 9 board with the numbers 1 through 9, {06/11/2019}_
+#### _Sudoku is a game where players must fill in a 9 x 9 board with the numbers 1 through 9, 06/11/2019_
 
-#### By _**{Zsuzsanna Mangu}**_
+#### By _**Zsuzsanna Mangu**_
 
 ## Description
 
-_{This application checks if a completed Sudoku puzzle is “legal.” In other words, it ensures that each row, each column and each 3x3 grid contain all numbers from 1 to 9 with no repeats.}_
+_This application checks if a completed Sudoku puzzle is “legal.” In other words, it ensures that each row, each column and each 3x3 grid contain all numbers from 1 to 9 with no repeats._
 
 ## Setup/Installation Requirements
 
@@ -41,18 +41,18 @@ _{This application checks if a completed Sudoku puzzle is “legal.” In other 
 
 ## Limitations
 
-_{This is only a sudoku checker, it does not allow users to create a sudoku puzzle.}_
+_This is only a sudoku checker, it does not allow users to create a sudoku puzzle._
 
 ## Support and contact details
 
-_{Feel free to contact me at zsuzsannamangu@gmail.com with any questions.}_
+_Feel free to contact me at zsuzsannamangu@gmail.com with any questions._
 
 ## Technologies Used
 
-_{Javascript, webpack, Jasmine and Karma for testing}_
+_Javascript, webpack, Jasmine and Karma for testing_
 
 ### License
 
-*{MIT}*
+*MIT*
 
-Copyright (c) 2019 **_{Zsuzsanna Mangu}_**
+Copyright (c) 2019 **_Zsuzsanna Mangu_**
